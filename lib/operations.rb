@@ -7,9 +7,4 @@ else speed == 95
   return false
 end
 
-def not_safe?(speed)
-	
-end
-	
-
 
