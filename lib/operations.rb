@@ -6,5 +6,5 @@ if speed == 60
 else speed == 95
   return false
 end
-
+end
 
