@@ -26,4 +26,4 @@ elsif speed <= 40
 elsif speed == 50
 return false 
 end
-	
+end
